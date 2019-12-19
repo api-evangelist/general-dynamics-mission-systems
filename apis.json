@@ -1,0 +1,54 @@
+{
+    "name": "General Dynamics Mission Systems",
+    "description": "<p>General Dynamics Mission Systems is a business unit of General Dynamics, the global aerospace and defense company. We are a leading provider of mission critical C4ISR systems across the land, sea, air, space and cyber domains. We have an established global presence in secure communications and networking, command and control systems, imagery sensors and cyber.<\/p>",
+    "image": "",
+    "tags": [
+        "api not found",
+        "cyber",
+        "drones",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/general-dynamics-mission-systems\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "General Dynamics Mission Systems",
+            "description": null,
+            "image": "",
+            "humanURL": "https:\/\/gdmissionsystems.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/general-dynamics-mission-systems-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/general-dynamics-mission-systems-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/gdmissionsystems.com\/news\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "https:\/\/gdmissionsystems.com\/feed\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/GDMS"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/gdmissionsystems.com\/"
+        }
+    ]
+}
